@@ -15,7 +15,8 @@ As a university lecturer, I’ve taught and facilitated courses in artificial in
 
 ### Work Experience
 - **Quantitative Analyst AI Models**, Bank of America  
-- **Course Facilitator, AI Program**, Stanford University  
+- **Course Facilitator, AI Program**, Stanford University
+- **Consulting and Assurance**, Ernst&Young, PriceWaterhouseCoopers 
 
 ### Projects
 - **Themes and Outliers in CFPB Complaint Data** using Deep Learning  
