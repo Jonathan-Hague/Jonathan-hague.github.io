@@ -2,7 +2,9 @@
 **Quantitative Analyst - AI Models**  
 
 ### Personal Statement 
-I’m a quantitative analyst and educator specializing in AI, with dual graduate degrees in Data Science and Accountancy and over a decade of experience in data modeling and process automation across global organizations. I have a proven track record of designing and building machine learning and deep learning solutions that enhance efficiency, support regulatory compliance, and generate scalable insights. As a university lecturer, I’ve taught and facilitated courses in artificial intelligence and financial analytics, and I continue to pursue advanced graduate AI training at Stanford University. A deeply curious, interdisciplinary thinker, I’m passionate about demystifying AI and expanding its responsible use. I am also a proud veteran of the U.S. Army Reserve.
+I’m a quantitative analyst and educator specializing in AI, with dual graduate degrees in Data Science and Accountancy and over a decade of experience in data modeling and process automation across global organizations. I have a proven track record of designing and building machine learning and deep learning solutions that enhance efficiency, support regulatory compliance, and generate scalable insights.
+
+As a university lecturer, I’ve taught and facilitated courses in artificial intelligence and financial analytics, and I continue to pursue advanced graduate AI training at Stanford University. A deeply curious, interdisciplinary thinker, I’m passionate about demystifying AI and expanding its responsible use. I am also a proud veteran of the U.S. Army Reserve.
 
 
 ### Education
