@@ -1,8 +1,8 @@
 # Jonathan Hague 
-#Quantitative Analyst - AI Models 
+Quantitative Analyst - AI Models 
 
 #### Education
-Graduate Certificate AI, Stanford Unviersity (CA).
+Graduate Certificate in AI, Stanford Unviersity (CA).
 M.S. Data Science (Computer Science Track), Departement of Math and Statistics, American Unvirsity (DC).
 M.S. Accountancy (Reg Compliance Track), Business School, Catholic Univeristy of America (DC).
 B.S. Economics (Financial Macroeconomics Track), School of Economics, University of Paris (Paris).
