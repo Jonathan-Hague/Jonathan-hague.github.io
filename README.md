@@ -1,6 +1,9 @@
 # Jonathan Hague  
 **Quantitative Analyst - AI Models**  
 
+### Personal Statement 
+I'm an AI-focused quantitative analyst and educator with dual graduate degrees in Data Science and Accountancy, and over a decade of experience in data modeling, and process automation within global companies. Proven track record in integrating machine learning and deep learning solutions to drive efficiency, compliance, and insight at scale. Experienced university lecturer in artificial intelligence and financial analytics, with ongoing graduate training in AI at Stanford University. Served proudly in the US Army Reserve.
+
 ### Education
 - **Graduate Certificate in AI**, Stanford University (CA)  
 - **M.S. in Data Science (Computer Science Track)**, Department of Math and Statistics, American University (DC)  
