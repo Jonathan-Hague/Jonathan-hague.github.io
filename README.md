@@ -58,7 +58,7 @@
 
   <div class="container">
     <div class="profile-pic">
-      <img src="profile.png" alt="Jonathan Hague" />
+      <img src="profile.PNG" alt="Jonathan Hague" />
     </div>
     <div class="content">
       <h1>Jonathan Hague</h1>
