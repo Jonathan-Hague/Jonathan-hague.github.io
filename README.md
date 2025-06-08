@@ -1,4 +1,4 @@
-![Profile picture](profile.jpg)
+![Profile picture](profile.png)
 
 # Jonathan Hague  
 **Quantitative Analyst - AI Models**  
