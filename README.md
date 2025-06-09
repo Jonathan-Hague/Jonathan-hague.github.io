@@ -40,12 +40,12 @@ A deeply curious and interdisciplinary thinker, I’m passionate about demystify
 - **Paper on Application of Deep Generative Models to Consumer Complaints in Banking, 2024:**  
   [Exploring Banking Complaint Patterns and Outliers with Deep Generative Models](BankingCompalintGenAI.pdf)
   
-  👉 [View the full project on GitHub](https://github.com/Jonathan-Hague/BankingComplaintGenAI.git)
+  👉 [View the full code implementation on GitHub](https://github.com/Jonathan-Hague/BankingComplaintGenAI.git)
   
 - **Paper on Application of Deep Generative Models to Mortgage Portfolio in Banking, 2023:**  
   [Generative Modeling for Climate Risk Assessment in Mortgage Portfolios](GenAI_Mortgage.pdf)
   
-  👉 [View the full project on GitHub](https://github.com/Jonathan-Hague/GenAI_Mortgage.git)
+  👉 [View the full code implementation on GitHub](https://github.com/Jonathan-Hague/GenAI_Mortgage.git)
   
 - **Empowering Puerto Rico Teachers using Machine Learning, 2022:**  
   Contributed to the U.S. Census Bureau’s *The Opportunity Project (TOP)*, collaborating on a web-based application designed to support educators in partnership with the Puerto Rico Department of Education. The application leveraged machine learning and data analytics to align educational resources with regions most affected by climate-related hazards. The project was recognized by both the Census Bureau and the Puerto Rico Department of Education for its impact and innovation.  
