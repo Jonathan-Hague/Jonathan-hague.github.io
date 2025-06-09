@@ -39,10 +39,12 @@ A deeply curious and interdisciplinary thinker, I’m passionate about demystify
   
 - **Paper on Application of Deep Generative Models to Consumer Complaints in Banking, 2024**  
   [Exploring Banking Complaint Patterns and Outliers with Deep Generative Models](BankingCompalintGenAI.pdf)
+  
   👉 [View the full project on GitHub](https://github.com/Jonathan-Hague/BankingComplaintGenAI.git)
   
 - **Paper on Application of Deep Generative Models to Mortgage Portfolio in Banking, 2023**  
   [Generative Modeling for Climate Risk Assessment in Mortgage Portfolios](GenAI_Mortgage.pdf)
+  
   👉 [View the full project on GitHub](https://github.com/Jonathan-Hague/GenAI_Mortgage.git)
   
 - **Empowering Puerto Rico Teachers using Machine Learning, 2022**  
