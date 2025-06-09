@@ -1,6 +1,5 @@
 # Jonathan Hague  
 **Quantitative Analyst – AI Models**  
-![Jonathan Hague] 
 [GitHub Profile](https://github.com/jonathan-hague)
 
 ---
