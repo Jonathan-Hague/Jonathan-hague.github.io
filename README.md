@@ -16,10 +16,10 @@ A deeply curious and interdisciplinary thinker, I’m passionate about demystify
 
 ## Education
 
-- Graduate Certificate in AI, Stanford University (CA).
-- M.S. in Data Science (Computer Science Track), American University (DC).
-- M.S. in Accountancy (Regulatory Compliance Track), Catholic University of America (DC).
-- B.S. in Economics (Financial Macroeconomics Track), University of Paris (Paris).
+- Graduate Certificate in AI, School of Engineering (Computer Science), Stanford University (CA).
+- M.S. in Data Science (Computer Science Track), Department of Mathematics and Statistics, American University (DC).
+- M.S. in Accountancy (Regulatory Compliance Track), School of Business, Catholic University of America (DC).
+- B.S. in Economics (Financial Macroeconomics Track), School of Economics, University of Paris (France).
 
 ---
 
