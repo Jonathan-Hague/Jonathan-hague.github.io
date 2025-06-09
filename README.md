@@ -35,15 +35,15 @@ A deeply curious and interdisciplinary thinker, I’m passionate about demystify
 ## Projects
 
 - **Deep Generative Models Educational Handouts, 2025:**  
-  [Exploring Variational Auto Encoders and their variations with PyTorch implementation (PDF).](XCS236%20-%20VAEs%20.pdf)
+  [Exploring Variational Auto Encoders and their variations with PyTorch implementation. (PDF)](XCS236%20-%20VAEs%20.pdf)
   
 - **Paper on Application of Deep Generative Models to Consumer Complaints in Banking, 2024:**  
-  [Exploring Banking Complaint Patterns and Outliers with Deep Generative Models (PDF).](BankingCompalintGenAI.pdf)
+  [Exploring Banking Complaint Patterns and Outliers with Deep Generative Models. (PDF)](BankingCompalintGenAI.pdf)
   
   👉 [View the full code implementation on GitHub.](https://github.com/Jonathan-Hague/BankingComplaintGenAI.git)
   
 - **Paper on Application of Deep Generative Models to Mortgage Portfolio in Banking, 2023:**  
-  [Generative Modeling for Climate Risk Assessment in Mortgage Portfolios (PDF).](GenAI_Mortgage.pdf)
+  [Generative Modeling for Climate Risk Assessment in Mortgage Portfolios. (PDF)](GenAI_Mortgage.pdf)
   
   👉 [View the full code implementation on GitHub.](https://github.com/Jonathan-Hague/GenAI_Mortgage.git)
   
