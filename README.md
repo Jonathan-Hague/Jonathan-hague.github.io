@@ -28,7 +28,7 @@ A deeply curious and interdisciplinary thinker, I’m passionate about demystify
 - Quantitative Analyst AI Models, Bank of America *(Current)*.
 - Course Facilitator, Artificial Intelligence Program, Stanford University *(Current)*.
 - Adjunct Faculty, Business Schools of Catholic University of America and University of St. Thomas *(Former)*.
-- Consultant, Assurance and Advisory Services, Ernst & Young and PricewaterhouseCoopers *(Former)*.
+- Senior, Assurance and Advisory Services, Ernst & Young and PricewaterhouseCoopers *(Former)*.
 
 ---
 
