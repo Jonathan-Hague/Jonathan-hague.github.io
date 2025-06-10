@@ -6,7 +6,7 @@
 
 ## Personal Statement
 
-I’m a quantitative analyst and educator specialized in AI, with dual graduate degrees in Data Science (Computer Science Track) and Accountancy (Regulatory Compliance Track) and over a decade of experience in data modeling and process automation across global organizations. I have a proven track record of designing and building machine learning and deep learning solutions that enhance efficiency, support regulatory compliance, and generate scalable insights.
+I’m a quantitative analyst and educator specialized in AI, with dual graduate degrees in Data Science (Computer Science Track) and Accountancy (Regulatory Compliance Track) and over a decade of experience in data, modeling, and process automation across global organizations. I have a proven track record of designing and building machine learning and deep learning solutions that enhance efficiency, support regulatory compliance, and generate scalable insights.
 
 As a university lecturer, I’ve taught and facilitated courses in artificial intelligence and financial analytics, and I continue to pursue advanced graduate AI training at Stanford University.
 
