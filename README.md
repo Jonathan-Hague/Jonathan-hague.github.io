@@ -1,6 +1,6 @@
 # Jonathan Hague  
 **Quantitative Analyst – AI Models**  
-**jhague@stanford.edu**  
+jhague@stanford.edu  
 [GitHub Profile](https://github.com/jonathan-hague)
 
 ---
